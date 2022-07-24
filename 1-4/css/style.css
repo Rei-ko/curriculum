@@ -87,6 +87,14 @@
         width: 125px;
     }
 
+    .right-upper-left-upper {
+        width: 125px;
+    }
+
+    .right-upper-left-lower {
+        width: 125px;
+    }
+
     .right-upper-right {
         width: 75px;
     }
@@ -132,6 +140,14 @@
     .right-upper-left {
         width: 150px;
         float: none;
+    }
+
+    .right-upper-left-upper {
+        width: 150px;
+    }
+
+    .right-upper-left-lower {
+        width: 150px;
     }
 
     .right-bottom {
